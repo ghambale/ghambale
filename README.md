@@ -6,4 +6,4 @@ I'm freelance Back-end web developer focused on PHP and Laravel framework.
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate remotely.
 - 📫 How to reach me: msalehi [at] gmail.com
-- ⚡ Fun fact: I'm Single!
+- ⚡ Follow me on Twitter [https://twitter.com/ghambale](@ghambale)
