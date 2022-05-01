@@ -1,8 +1,22 @@
 Hi 👋 My name is Mohammad Salehi
-================================FullStack Developer-------------------I've started my career from desktop development with Delphi programming language. While the web was growing, I switched to web development and i started to coding with HTML and CSS, and after that i chose PHP for backend development. Currently I'm using Laravel framework for my projects.* 🌍  I'm based in Tehran, Iran* 🖥️  See my portfolio at [My Website](http://mosalehi.ir)* ✉️  You can contact me at [msalehipro@gmail.com](mailto:msalehipro@gmail.com)* 🧠  I'm learning React and Go* 🤝  I'm open to collaborating on Any Laravel project
+================================
+
+FullStack Developer
+-------------------
+
+
+I've started my career from desktop development with Delphi programming language. While the web was growing, I switched to web development and i started to coding with HTML and CSS, and after that i chose PHP for backend development. Currently I'm using Laravel framework for my projects.
+
+* 🌍  I'm based in Tehran, Iran
+* * 🖥️  See my portfolio at [My Website](http://mosalehi.ir)
+* * ✉️You can contact me at [msalehipro@gmail.com](mailto:msalehipro@gmail.com)
+* * 🧠  I'm learning React and Go
+* * 🤝  I'm open to collaborating on Any Laravel project
 
 <a href="https://www.twitter.com/madsalehi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/madsalehi?logo=twitter&style=for-the-badge&color=ffffff&labelColor=22272e"/></a><a href="https://www.github.com/ghambale" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/madsalehi?logo=twitter&style=for-the-badge&color=ffffff&labelColor=22272e"/></a>
+
+<a href="https://www.github.com/ghambale" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ghambale?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" /></a>
 
 ### Skills
